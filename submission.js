@@ -1,7 +1,7 @@
 const findSum = function (arr) {
 	let total = 0;
 	for (let num of arr) {
-		total += arr
+		total += num
 	}
 	return total;
 };
